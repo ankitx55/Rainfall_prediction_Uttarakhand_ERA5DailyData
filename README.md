@@ -68,9 +68,3 @@ All metrics (MAE, RMSE, R²) saved in `<model>_metrics.csv`.
   - Model comparison plots  
 
 ---
-
-## 🚀 Usage Instructions
-```bash
-git clone <repository_url>
-cd rainfall-prediction-uttarakhand
-pip install -r requirements.txt
